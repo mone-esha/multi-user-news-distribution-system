@@ -1,0 +1,17 @@
+USE project1;
+CREATE TABLE UserInfo (
+    u_id INT PRIMARY KEY AUTO_INCREMENT,
+    u_name VARCHAR(100) NOT NULL,
+    u_email VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    contact VARCHAR(20)
+);
+
+CREATE TABLE News (
+    news_id INT PRIMARY KEY AUTO_INCREMENT,
+    u_id INT NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    body TEXT NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (u_id) REFERENCES UserInfo(u_id) ON DELETE CASCADE
+);
