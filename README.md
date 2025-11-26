@@ -1,6 +1,6 @@
 # Multi-User News Distribution System  
 
-### Technology Used
+### TECHNOLOGY USED
 ```
 Frondend: Python  
 Backend: Python  
@@ -27,7 +27,8 @@ Database: MySQL
 ### DIAGRAMS  
 
 **ER Diagram**
-![ER diagram](https://github.com/user-attachments/assets/f5c26c83-c67e-4a9b-9e93-575b65d25be5)
+![ER Diagram](https://github.com/user-attachments/assets/284031ae-7f4e-4d48-b9b3-b05a702dfd0e)
+
 
    
    
