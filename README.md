@@ -29,6 +29,12 @@ Database: MySQL
 **ER Diagram**
 ![ER Diagram](https://github.com/user-attachments/assets/284031ae-7f4e-4d48-b9b3-b05a702dfd0e)
 
+**Swimlane Diagram**
+![swimlane2](https://github.com/user-attachments/assets/096f15d9-d6e2-44a5-9743-a34ee340f6df)  
+![Swimlane1](https://github.com/user-attachments/assets/b172ed7a-bcde-4d90-a5ba-80ed35563c8d)
+
+
+
 
    
    
